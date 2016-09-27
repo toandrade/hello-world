@@ -1,2 +1,3 @@
 # hello-world
 starting the study
+sobre mim: Eu gosto de ficção científica, gosto do esporte Basquete....
